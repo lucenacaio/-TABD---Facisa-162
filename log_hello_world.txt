@@ -1,0 +1,8 @@
+2016/10/08 11:35:47 - Spoon - Transformation opened.
+2016/10/08 11:35:47 - Spoon - Launching transformation [hello_world]...
+2016/10/08 11:35:47 - Spoon - Started the transformation execution.
+2016/10/08 11:35:47 - hello_world - Expedindo início para transformação [hello_world]
+2016/10/08 11:35:47 - Transformation metadata - Natural sort of steps executed in 0 ms (2 time previous steps calculated)
+2016/10/08 11:35:47 - Gera 10 mensagens.0 - Finished processing (I=0, O=0, R=0, W=10, U=0, E=0)
+2016/10/08 11:35:47 - Dummy (do nothing).0 - Finished processing (I=0, O=0, R=10, W=10, U=0, E=0)
+2016/10/08 11:35:47 - Spoon - The transformation has finished!!

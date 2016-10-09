@@ -1,0 +1,6 @@
+2016/10/09 16:29:13 - Spoon - Transformation opened.
+2016/10/09 16:29:13 - Spoon - Launching transformation [hello_world_fulano]...
+2016/10/09 16:29:13 - Spoon - Started the transformation execution.
+2016/10/09 16:29:13 - hello_world_fulano - Expedindo início para transformação [hello_world_fulano]
+2016/10/09 16:29:13 - Transformation metadata - Natural sort of steps executed in 0 ms (4 time previous steps calculated)
+2016/10/09 16:29:13 - Spoon - The transformation has finished!!
